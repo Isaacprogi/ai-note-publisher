@@ -39,9 +39,9 @@ You **must create a Groq API key** or modify the codebase to work with another A
 In the backend folder, create a `.env` file and add:
 
 ```bash
-TELEGRAM_BOT_TOKEN=123456789:ABCdefGhIJKlmNoPQRstuVWxyz
+TELEGRAM_BOT_TOKEN=your token
 GROQ_API_KEY=groq-abc1234567890examplekey
-MONGODB_URI=mongodb+srv://myuser:mypassword@cluster0.mongodb.net/notesdb?retryWrites=true&w=majority
+MONGODB_URI=your uri
 PORT=5000
 ```
 
